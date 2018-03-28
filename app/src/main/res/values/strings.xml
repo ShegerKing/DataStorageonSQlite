@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DatastorageonPreference</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name = "input2">input2</string>
+    <string name = "input3">input3</string>
+    <string name = "input4">input4</string>
+    <string name = "Save">Save</string>
+    <string name = "Enter">Enter a string</string>
+    <string name = "Empty">No data here</string>
+    <string name = "adapter">Empty file</string>
+    <string name = "Add">Add</string>
+    <string name = "display">Display</string>
+    <string name = "clear">Clear</string>
+    <string name= "nodata"> No Data</string>
+
+</resources>
